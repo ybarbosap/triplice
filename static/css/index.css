@@ -1,0 +1,33 @@
+.center {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    height: 85vh;
+}
+
+.card {
+    box-shadow: 0px 2px 10px #26395354;
+    padding: 20px;
+}
+
+.btn-submit {
+    background-color: #ea7626 !important;
+    color: #fff;
+}
+
+
+.text-orange {
+    color: #ea7626 !important;
+  }
+
+.bg-container {
+    background-image: url("../images/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+  }
+
+.text-info {
+    font-size: 28;
+    color: black;
+}
